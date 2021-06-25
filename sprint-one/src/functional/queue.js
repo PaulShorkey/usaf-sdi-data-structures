@@ -5,6 +5,7 @@ var Queue = function() {
   var storage = {};
 
   // Implement the methods below
+  // potato tomato
 
   someInstance.enqueue = function(value) {
   };
